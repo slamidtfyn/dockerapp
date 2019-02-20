@@ -1,0 +1,11 @@
+C:\Users\SørenLarsen\Source\dockerapp\bin\Debug\netcoreapp2.2\dockerapp.deps.json
+C:\Users\SørenLarsen\Source\dockerapp\bin\Debug\netcoreapp2.2\dockerapp.runtimeconfig.json
+C:\Users\SørenLarsen\Source\dockerapp\bin\Debug\netcoreapp2.2\dockerapp.runtimeconfig.dev.json
+C:\Users\SørenLarsen\Source\dockerapp\bin\Debug\netcoreapp2.2\dockerapp.dll
+C:\Users\SørenLarsen\Source\dockerapp\bin\Debug\netcoreapp2.2\dockerapp.pdb
+C:\Users\SørenLarsen\Source\dockerapp\obj\Debug\netcoreapp2.2\dockerapp.csprojAssemblyReference.cache
+C:\Users\SørenLarsen\Source\dockerapp\obj\Debug\netcoreapp2.2\dockerapp.csproj.CoreCompileInputs.cache
+C:\Users\SørenLarsen\Source\dockerapp\obj\Debug\netcoreapp2.2\dockerapp.AssemblyInfoInputs.cache
+C:\Users\SørenLarsen\Source\dockerapp\obj\Debug\netcoreapp2.2\dockerapp.AssemblyInfo.cs
+C:\Users\SørenLarsen\Source\dockerapp\obj\Debug\netcoreapp2.2\dockerapp.dll
+C:\Users\SørenLarsen\Source\dockerapp\obj\Debug\netcoreapp2.2\dockerapp.pdb
